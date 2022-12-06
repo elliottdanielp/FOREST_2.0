@@ -18,4 +18,14 @@ FOREST_2.0 will bridge the gap between FOREST and JobBOSS. Think of FOREST 2.0 a
 -	Web Scraping shipping rates / Freight Calculator 
 * *LIST TO GROW*
 
+# TECHNOLOGY TO BE USED 
+- C#
+- Python
+- Pandas
+- NumPy
+- Javascript
+- SQL
+
+
+
 
