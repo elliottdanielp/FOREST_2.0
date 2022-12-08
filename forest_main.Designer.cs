@@ -100,7 +100,6 @@
             this.outside_dataview.RowTemplate.Height = 25;
             this.outside_dataview.Size = new System.Drawing.Size(91, 457);
             this.outside_dataview.TabIndex = 1;
-            this.outside_dataview.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // Outside
             // 
@@ -321,7 +320,6 @@
             this.label1.Size = new System.Drawing.Size(112, 20);
             this.label1.TabIndex = 3;
             this.label1.Text = "Job Location";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox1
             // 
@@ -338,7 +336,6 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(20, 23);
             this.textBox2.TabIndex = 5;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 
