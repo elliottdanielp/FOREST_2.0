@@ -26,6 +26,10 @@ FOREST_2.0 will bridge the gap between FOREST and JobBOSS. Think of FOREST 2.0 a
 - Javascript
 - SQL
 
+# Database design
+Database Diagram - https://app.quickdatabasediagrams.com/#/d/RmkxEk
+    
+![FOREST_DataBase_Design](https://user-images.githubusercontent.com/106495422/207423550-132a1607-0f1d-43b3-bac7-d615b296edd4.png)
 
 
 
