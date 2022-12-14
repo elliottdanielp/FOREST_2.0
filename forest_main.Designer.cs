@@ -85,6 +85,7 @@
             treeNode2});
             this.treeView1.Size = new System.Drawing.Size(185, 582);
             this.treeView1.TabIndex = 0;
+            this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
             // 
             // outside_dataview
             // 
